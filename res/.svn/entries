@@ -1,0 +1,67 @@
+10
+
+dir
+73
+svn://localhost/tallyou/res
+svn://localhost
+
+
+
+2014-03-09T13:32:07.813198Z
+72
+zhangpengzhan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65f9b36a-02db-0b4f-829e-1bd4605914da
+
+values
+dir
+
+values-sw720dp-land
+dir
+
+values-sw600dp
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+menu
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+raw
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+

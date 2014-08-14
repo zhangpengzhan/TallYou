@@ -1,0 +1,56 @@
+10
+
+dir
+73
+svn://localhost/tallyou/bin/res
+svn://localhost
+delete
+
+
+2014-03-08T03:45:39.036552Z
+69
+zhangpengzhan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65f9b36a-02db-0b4f-829e-1bd4605914da
+
+drawable
+dir
+
+
+
+delete
+
+drawable-xxhdpi
+dir
+
+
+
+delete
+
+drawable-mdpi
+dir
+
+
+
+delete
+
+drawable-xhdpi
+dir
+
+
+
+delete
+
