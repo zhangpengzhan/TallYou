@@ -70,6 +70,9 @@ public class SoundMeter {
 		}
 	}
 
+	/**
+	 * 
+	 */
 	public void pause() {
 		if (mRecorder != null) {
 			mRecorder.stop();
